@@ -1,0 +1,1 @@
+npx codeceptjs run --grep "@import" -c codecept.conf.js ./specs/datatransfer_test.js --reporter mocha-multi --plugins allure

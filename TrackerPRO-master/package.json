@@ -1,0 +1,27 @@
+{
+  "name": "CodeceptJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.0.4",
+    "mocha": "^8.1.3",
+    "puppeteer": "^5.2.1"
+  },
+  "dependencies": {
+    "@codeceptjs/ui": "^0.4.3",
+    "auto-login": "^1.0.3",
+    "mocha-multi": "^1.1.3",
+    "mochawesome": "^6.1.1",
+    "scroll-element": "^1.0.0",
+    "scroll-into-view": "^1.15.0",
+    "scroll-to-element": "^2.0.3",
+    "xlsx": "^0.16.7"
+  }
+}
