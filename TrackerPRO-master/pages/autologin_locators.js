@@ -4,6 +4,8 @@ module.exports = {
 
   // insert your locators and methods here
 
+ //Test Comment
+
   _init() {
 
     Login = require('../steps_file.js')();
